@@ -165,7 +165,11 @@
             $(document).ready(function() {
                 $('#zero_config_wrapper').DataTable({
                     searching: true, // Aktifkan fitur pencarian
-                    lengthMenu: [10, 25, 50, 100] // Menentukan jumlah data yang ditampilkan per halaman
+                    lengthMenu: [10, 25, 50, 100], // Menentukan jumlah data yang ditampilkan per halaman
+                    dom: 'Bfrtip', // Tambahkan elemen tombol di dom
+                    buttons: [
+                        'copy', 'csv', 'excel', 'pdf', 'print'
+                    ]
                 });
             });
 
