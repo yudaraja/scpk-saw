@@ -46,8 +46,8 @@ Perhitungan dilakukan berdasarkan parameter berikut:
 
 ## 📸 Screenshot Tampilan
 
-![Screenshot 1](/screenshots/baru_1.png)
+![Screenshot 1](https://github.com/user-attachments/assets/37922d94-588a-4819-801a-53f0312c8436)
 
-![Screenshot 2](./screenshots/baru_2.png)
+![Screenshot 2](https://github.com/user-attachments/assets/128b099c-929f-412a-95d0-99d4f08cd7a2)
 
-![Screenshot 3](./screenshots/baru_3.png)
+![Screenshot 3](https://github.com/user-attachments/assets/41c3c989-59c7-4510-a479-1a4205d7555f)
